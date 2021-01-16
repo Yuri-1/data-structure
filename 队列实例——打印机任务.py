@@ -3,9 +3,6 @@
 # 打印机任务 队列结构 python实现
 
 
-
-
-
 from pythonds.basic.queue import Queue
 import random
 class Priter:
